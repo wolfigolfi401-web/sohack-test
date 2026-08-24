@@ -1,0 +1,26 @@
+<resources>
+    <!-- Palette abgeleitet aus dem Mockup "Handy Dashboard". -->
+    <color name="colorPrimary">#0E1411</color>
+    <color name="colorPrimaryVariant">#0A0F0C</color>
+    <color name="colorOnPrimary">#EAF0ED</color>
+
+    <color name="colorSecondary">#35D69A</color>
+    <color name="colorSecondaryVariant">#2BAE80</color>
+    <color name="colorSecondarySoft">#1E3A30</color>
+    <color name="colorOnSecondary">#0E1411</color>
+
+    <color name="colorAccent">#35D69A</color>
+    <color name="colorWarning">#F2A93B</color>
+    <color name="colorDanger">#FF8A80</color>
+
+    <color name="colorBackground">#0E1411</color>
+    <color name="colorSurface">#151B18</color>
+    <color name="colorSurfaceRaised">#1A211D</color>
+    <color name="colorOutline">#242C28</color>
+    <color name="colorOnBackground">#EAF0ED</color>
+    <color name="colorOnSurface">#EAF0ED</color>
+
+    <color name="textColorPrimary">#EAF0ED</color>
+    <color name="textColorSecondary">#7B8983</color>
+    <color name="textColorTertiary">#5C6862</color>
+</resources>
